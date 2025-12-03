@@ -1,0 +1,91 @@
+# 🏖️ Sunny Beach - Travel Brochure
+
+Un brochure turístico interactivo y responsive para la playa ficticia "Sunny Beach".
+
+## 🌟 Características
+
+- ✨ Diseño moderno y atractivo
+- 📱 Totalmente responsive (adaptable a móviles)
+- 🎨 Colores vibrantes inspirados en la playa
+- 🚀 Desarrollado con HTML5 y Tailwind CSS
+- 💯 Sin dependencias adicionales (solo Tailwind CDN)
+
+## 🖼️ Preview
+
+![Sunny Beach Brochure](screenshot.png)
+
+## 🚀 Demo en Vivo
+
+Visita: [https://TU_USUARIO.github.io/sunny-beach-brochure/](https://TU_USUARIO.github.io/sunny-beach-brochure/)
+
+## 📋 Contenido
+
+El brochure incluye:
+- 🏝️ Descripción de la playa
+- 🚤 Información sobre paseos en bote
+- ⭐ Razones para visitar
+- 📅 Mejor época para viajar
+- 📞 Información de contacto
+- 💬 Testimonios de clientes
+
+## 🛠️ Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- Google Fonts (Poppins)
+
+## 📦 Instalación
+
+1. Clona este repositorio:
+```bash
+git clone https://github.com/TU_USUARIO/sunny-beach-brochure.git
+```
+
+2. Abre el archivo `index.html` en tu navegador:
+```bash
+cd sunny-beach-brochure
+open index.html
+```
+
+## 🎨 Personalización
+
+Puedes personalizar fácilmente:
+- Colores: Modifica las clases de Tailwind en el HTML
+- Texto: Cambia el contenido directamente en el HTML
+- Fuentes: Cambia la URL de Google Fonts en el `<head>`
+
+## 📱 Compatibilidad
+
+- ✅ Chrome
+- ✅ Firefox
+- ✅ Safari
+- ✅ Edge
+- ✅ Móviles (iOS/Android)
+
+## 📄 Licencia
+
+Este proyecto es de código abierto y está disponible bajo la [MIT License](LICENSE).
+
+## 👨‍💻 Autor
+
+Creado por **[Tu Nombre]**
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor:
+1. Haz un Fork del proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📞 Contacto
+
+Si tienes preguntas, puedes contactarme en:
+- Email: tu_email@ejemplo.com
+- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+
+---
+
+⭐ Si te gustó este proyecto, dale una estrella en GitHub!
